@@ -12,6 +12,7 @@
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=BF40BF&show_icons=true&icon_color=BF40BF&title_color=BF40BF&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=BF40BF&title_color=BF40BF&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunaesena&theme=transparent&bg_color=000&border_color=BF40BF&show_icons=true&icon_color=BF40BF&title_color=BF40BF&text_color=FFF)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunaesena&layout=compact&bg_color=000&border_color=BF40BF&title_color=BF40BF&text_color=FFF)
 
